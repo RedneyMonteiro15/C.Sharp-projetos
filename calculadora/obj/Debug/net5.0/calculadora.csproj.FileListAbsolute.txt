@@ -1,0 +1,16 @@
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\bin\Debug\net5.0\calculadora.exe
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\bin\Debug\net5.0\calculadora.deps.json
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.json
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.dev.json
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\bin\Debug\net5.0\calculadora.dll
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\bin\Debug\net5.0\ref\calculadora.dll
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\bin\Debug\net5.0\calculadora.pdb
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\obj\Debug\net5.0\calculadora.csprojAssemblyReference.cache
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\obj\Debug\net5.0\calculadora.dll
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\obj\Debug\net5.0\ref\calculadora.dll
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\obj\Debug\net5.0\calculadora.pdb
+C:\Users\TANIA\Documents\Repositorio local\C.sharp-projetos\calculadora\obj\Debug\net5.0\calculadora.genruntimeconfig.cache
