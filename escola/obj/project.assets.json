@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vany gomes\\Documents\\Redney\\programação\\csharp\\agregação\\primeiro\\primeiro.csproj",
-      "projectName": "primeiro",
-      "projectPath": "C:\\Users\\vany gomes\\Documents\\Redney\\programação\\csharp\\agregação\\primeiro\\primeiro.csproj",
+      "projectUniqueName": "C:\\Users\\vany gomes\\Documents\\GitHub\\C.Sharp-projetos\\escola\\escola.csproj",
+      "projectName": "escola",
+      "projectPath": "C:\\Users\\vany gomes\\Documents\\GitHub\\C.Sharp-projetos\\escola\\escola.csproj",
       "packagesPath": "C:\\Users\\vany gomes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vany gomes\\Documents\\Redney\\programação\\csharp\\agregação\\primeiro\\obj\\",
+      "outputPath": "C:\\Users\\vany gomes\\Documents\\GitHub\\C.Sharp-projetos\\escola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vany gomes\\AppData\\Roaming\\NuGet\\NuGet.Config"

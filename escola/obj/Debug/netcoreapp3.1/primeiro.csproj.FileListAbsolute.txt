@@ -1,0 +1,13 @@
+C:\Users\vany gomes\Documents\GitHub\C.Sharp-projetos\IPB\bin\Debug\netcoreapp3.1\primeiro.exe
+C:\Users\vany gomes\Documents\GitHub\C.Sharp-projetos\IPB\bin\Debug\netcoreapp3.1\primeiro.deps.json
+C:\Users\vany gomes\Documents\GitHub\C.Sharp-projetos\IPB\bin\Debug\netcoreapp3.1\primeiro.runtimeconfig.json
+C:\Users\vany gomes\Documents\GitHub\C.Sharp-projetos\IPB\bin\Debug\netcoreapp3.1\primeiro.runtimeconfig.dev.json
+C:\Users\vany gomes\Documents\GitHub\C.Sharp-projetos\IPB\bin\Debug\netcoreapp3.1\primeiro.dll
+C:\Users\vany gomes\Documents\GitHub\C.Sharp-projetos\IPB\bin\Debug\netcoreapp3.1\primeiro.pdb
+C:\Users\vany gomes\Documents\GitHub\C.Sharp-projetos\IPB\obj\Debug\netcoreapp3.1\primeiro.csprojAssemblyReference.cache
+C:\Users\vany gomes\Documents\GitHub\C.Sharp-projetos\IPB\obj\Debug\netcoreapp3.1\primeiro.AssemblyInfoInputs.cache
+C:\Users\vany gomes\Documents\GitHub\C.Sharp-projetos\IPB\obj\Debug\netcoreapp3.1\primeiro.AssemblyInfo.cs
+C:\Users\vany gomes\Documents\GitHub\C.Sharp-projetos\IPB\obj\Debug\netcoreapp3.1\primeiro.csproj.CoreCompileInputs.cache
+C:\Users\vany gomes\Documents\GitHub\C.Sharp-projetos\IPB\obj\Debug\netcoreapp3.1\primeiro.dll
+C:\Users\vany gomes\Documents\GitHub\C.Sharp-projetos\IPB\obj\Debug\netcoreapp3.1\primeiro.pdb
+C:\Users\vany gomes\Documents\GitHub\C.Sharp-projetos\IPB\obj\Debug\netcoreapp3.1\primeiro.genruntimeconfig.cache
